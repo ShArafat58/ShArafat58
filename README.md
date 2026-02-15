@@ -17,8 +17,6 @@
 
 🔐 **Cybersecurity Analyst** with strong foundations in security tools, steganography, cryptography, and penetration testing — actively building hands-on expertise through TryHackMe labs and security-focused projects.
 
-🌐 **Front-End Developer Intern** at **Xcode Corporation**, designing and developing responsive website frontends from wireframe to deployment.
-
 📄 **Published Researcher** — Paper accepted at the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.
 
 🎓 **B.Sc. in Computer Science & Engineering** — Ahsanullah University of Science and Technology (AUST), Dhaka.
