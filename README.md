@@ -75,7 +75,7 @@ Log Analysis  •  API Testing  •  Cybersecurity Tools
 
 ## 🏆 Achievements
 
-- ✅ Completed **50+ rooms** on TryHackMe — penetration testing, privilege escalation & network exploitation
+- ✅ Completed **90+ rooms** on TryHackMe — penetration testing, privilege escalation & network exploitation
 - ✅ Scored **84.7%** overall in the Ostad Cyber Security & Ethical Hacking Career Track Program
 
 ---
