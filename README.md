@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shahriar Hossain Arafat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Analyst+%7C+Web+Developer+%7C+Vibe+Coder;Published+Researcher+%40+ICCIT+2025;100%2B+TryHackMe+Rooms+%7C+Top+6%25+Globally;Always+learning%2C+always+building." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=800&lines=Cybersecurity+Analyst+%7C+Web+Developer+%7C+Vibe+Coder;Published+Researcher+%40+ICCIT+2025;100%2B+TryHackMe+Rooms+%7C+Top+6%25+Globally;Always+learning%2C+always+building." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -37,12 +37,11 @@
 ---
 
 ## 🛡️ Cybersecurity Skills
-
-```
 Linux  •  Network Security  •  Footprinting  •  Wireshark  •  Cryptography
+
 Threat & Vulnerability Management  •  Social Engineering  •  SQL Injection
+
 Log Analysis  •  API Testing  •  IAM  •  SIEM (Wazuh)  •  Cybersecurity Tools
-```
 
 ## 💻 Development Skills
 
@@ -93,6 +92,8 @@ Log Analysis  •  API Testing  •  IAM  •  SIEM (Wazuh)  •  Cybersecurity 
 ## 🏆 Achievements
 
 - ✅ Completed **100+ rooms** on TryHackMe — ranked in the **Top 6% globally** (pentesting, privilege escalation & network exploitation)
+- 🥇 **Team Finalist** — **THE INFINITY AI BUILDFEST 2026** (CloudCamp Bangladesh & BRAC University) for the AI learning platform **NeuroQuest**
+- 🚀 **Top 100 Finalist (Individual)** — **Vibe Coding to Production Challenge**, THE INFINITY AI BUILDFEST 2026
 - ✅ Scored **84.7%** overall in the Ostad Cyber Security & Ethical Hacking Career Track Program
 
 ---
