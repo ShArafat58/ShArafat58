@@ -91,10 +91,13 @@ Log Analysis  •  API Testing  •  IAM  •  SIEM (Wazuh)  •  Cybersecurity 
 
 ## 🏆 Achievements
 
-- ✅ Completed **100+ rooms** on TryHackMe — ranked in the **Top 6% globally** (pentesting, privilege escalation & network exploitation)
-- 🥇 **Team Finalist** — **THE INFINITY AI BUILDFEST 2026** (CloudCamp Bangladesh & BRAC University) for the AI learning platform **NeuroQuest**
+- 🥇 **Champion — Spirit of July track**, July Hackathon 2026, for **ShottoQR**, a forensic image-verification and justice-tracking platform
+- 🏅 **Team Finalist (Top 100 teams)** — **THE INFINITY AI BUILDFEST 2026** (CloudCamp Bangladesh & BRAC University) for the AI learning platform **NeuroQuest**
 - 🚀 **Top 100 Finalist (Individual)** — **Vibe Coding to Production Challenge**, THE INFINITY AI BUILDFEST 2026
-- ✅ Scored **84.7%** overall in the Ostad Cyber Security & Ethical Hacking Career Track Program
+- 📈 **Ranked 245th of 1,773 participants** — HackerRank Hackathon (June 2026 edition), a global contest with international competitors
+- 🛡️ **Top 6% globally on TryHackMe** — 100+ hands-on labs
+- 🚩 **Finalist — Cybernauts CTF** (North South University): 19th of 267 teams, the only qualifying team from AUST
+- 🎯 **Finalist — Capture The Flag, SMUCT CSE Fest v3.0** (Shanto-Mariam University of Creative Technology): 1st in the preliminary round, 7th overall
 
 ---
 
