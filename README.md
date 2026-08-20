@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/shahriar-hossain-arafat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ShArafat58"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://sharafat58.online/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/ShArafat58"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/ShahriarHArafat"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="https://ieeexplore.ieee.org/document/11491250"><img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
   <a href="mailto:shahriararafat20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
