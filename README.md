@@ -54,26 +54,26 @@ overlap is where I like to work: shipping software that is fast to use and hard 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,php,cs,dart&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,php,cs,dart&perline=7" alt="Languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,flutter&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,flutter&perline=7" alt="Frontend" />
 
 **Backend and Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,firebase,prisma&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,firebase,prisma&perline=7" alt="Backend" />
 
 </td>
     <td valign="top" width="50%">
 
 **Security and Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,wireshark,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,wireshark,docker&perline=6" alt="Security" />
 
 **Tools and Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma&perline=7" alt="Tools" />
 
 **AI and Build**
 
@@ -224,26 +224,52 @@ managing logistics and volunteer teams.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShArafat58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=ShArafat58&theme=tokyonight&hide_border=true" />
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShArafat58&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShArafat58&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img alt="Repos per language" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShArafat58&theme=github_dark" />
+  <img alt="Most committed language" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShArafat58&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShArafat58&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  <img alt="Contribution stats" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShArafat58&theme=github_dark" />
+  <img alt="Productive time" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShArafat58&theme=github_dark&utcOffset=6" />
 </p>
+
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShArafat58&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</p>
+
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ShArafat58&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <i>"Our greatest glory is not in never falling,<br/>but in rising every time we fall."</i>
+      <br/><br/>
+      <sub><b>Confucius</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <i>"It always seems impossible<br/>until it is done."</i>
+      <br/><br/>
+      <sub><b>Nelson Mandela</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
   <b>Open to full stack, frontend, and cybersecurity roles.</b><br/>
-  <a href="mailto:shahriararafat20@gmail.com">shahriararafat20@gmail.com</a> · <a href="https://sharafat58.online/">sharafat58.online</a>
+  <a href="mailto:shahriararafat20@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sharafat58.online/"><img src="https://img.shields.io/badge/View_Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahriar-hossain-arafat/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>"The quieter you become, the more you are able to hear."</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C9A7,50:203A43,100:0F2027" />
