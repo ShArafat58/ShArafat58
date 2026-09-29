@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C9A7&center=true&vCenter=true&width=820&lines=Full+Stack+Developer+%7C+React%2C+Next.js%2C+TypeScript;Cybersecurity+Analyst+%7C+SIEM%2C+Log+Analysis%2C+Blue+Team;AI+Native+Builder+%7C+Claude+%26+Gemini+API+Integrations;IEEE+Published+Researcher+%40+ICCIT+2025;Hackathon+Champion+%7C+Top+6%25+on+TryHackMe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C9A7&center=true&vCenter=true&width=820&lines=Full+Stack+Developer+%7C+React%2C+Next.js%2C+TypeScript;Cybersecurity+Analyst+%7C+SIEM%2C+Log+Analysis%2C+Blue+Team;AI+Native+Builder+%7C+Claude+%26+Gemini+API+Integrations;IEEE+Published+Researcher+%40+ICCIT+2025;Hackathon+Champion+%7C+Top+4%25+on+TryHackMe" alt="Typing SVG" />
   </a>
 </p>
 
@@ -163,7 +163,7 @@ overlap is where I like to work: shipping software that is fast to use and hard 
 </td>
     <td width="50%">
 
-🛡️ **Top 6% globally on TryHackMe**
+🛡️ **Top 4% globally on TryHackMe**
 <sub>100+ hands on labs completed</sub>
 
 🚩 **Finalist**, Cybernauts CTF, North South University
