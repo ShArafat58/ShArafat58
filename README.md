@@ -224,26 +224,20 @@ managing logistics and volunteer teams.
 
 ## 📊 GitHub Stats
 
+<!-- Generated in-repo by .github/workflows/profile-cards.yml (no public API, no rate limits) -->
+
 <p align="center">
-  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShArafat58&theme=github_dark" />
+  <img alt="Profile summary" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img alt="Repos per language" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShArafat58&theme=github_dark" />
-  <img alt="Most committed language" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShArafat58&theme=github_dark" />
+  <img alt="Repos per language" height="190" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img alt="Most committed language" height="190" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img alt="Contribution stats" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShArafat58&theme=github_dark" />
-  <img alt="Productive time" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShArafat58&theme=github_dark&utcOffset=6" />
-</p>
-
-<p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShArafat58&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</p>
-
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ShArafat58&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  <img alt="Contribution stats" height="190" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img alt="Productive time" height="190" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
 
 ---
